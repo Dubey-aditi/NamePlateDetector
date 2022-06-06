@@ -1,3 +1,5 @@
+#NamePLateDetectorCode
+
 import cv2
 
 npCascade = cv2.CascadeClassifier("nemePlateDetector/haarcascade_russian_plate_number.xml")
